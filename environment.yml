@@ -13,7 +13,6 @@ dependencies:
 - hide_code
 - plotly
 - ply
-- cvxpy
 - mpi4py
 - deap
 - psutil
